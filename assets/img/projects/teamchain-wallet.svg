@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 550" width="800" height="550" role="img" aria-label="TeamChain Wallet project preview">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#100e1a"/><stop offset="1" stop-color="#1f1740"/></linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0.1" r="0.7"><stop offset="0" stop-color="#a78bfa" stop-opacity="0.35"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#a78bfa" stroke-opacity="0.07"/></pattern>
+  </defs>
+  <rect width="800" height="550" fill="url(#bg)"/>
+  <rect width="800" height="550" fill="url(#grid)"/>
+  <rect width="800" height="550" fill="url(#glow)"/>
+  <rect x="40" y="40" width="720" height="470" rx="22" fill="#100e1a" fill-opacity="0.55" stroke="#a78bfa" stroke-opacity="0.35"/>
+  <circle cx="76" cy="76" r="7" fill="#a78bfa" fill-opacity="0.9"/><circle cx="100" cy="76" r="7" fill="#a78bfa" fill-opacity="0.55"/><circle cx="124" cy="76" r="7" fill="#a78bfa" fill-opacity="0.3"/>
+  <line x1="40" y1="106" x2="760" y2="106" stroke="#a78bfa" stroke-opacity="0.2"/>
+  <text x="80" y="206" font-family="Poppins, 'Segoe UI', Arial, sans-serif" font-size="23" font-weight="600" letter-spacing="3" fill="#a78bfa">BLOCKCHAIN  ·  PERSONAL PROJECT</text>
+  <text x="80" y="300" font-family="Poppins, 'Segoe UI', Arial, sans-serif" font-size="60" font-weight="700" fill="#f5f6fa">TeamChain Wallet</text>
+  <text x="80" y="356" font-family="Poppins, 'Segoe UI', Arial, sans-serif" font-size="29" fill="#a9a4c0">Web3 ERC-20 Hub</text>
+  <rect x="80" y="410" width="120" height="6" rx="3" fill="#a78bfa"/>
+</svg>
